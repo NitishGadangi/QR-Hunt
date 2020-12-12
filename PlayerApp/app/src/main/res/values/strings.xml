@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">QR Hunt</string>
-</resources>
+    <string name="app_name">Treasure Hunt</string>
+
+    <string name="hunt_a1"> I am made up of two words but have thousands of letters </string>
+    <string name="hunt_a2"> What goes up but never moves </string>
+    <string name="hunt_a3"> what has a ring but no finger </string>
+    <string name="hunt_a4"> You re almost at the very end, but this is where your guests come in. </string>
+    <string name="hunt_a5"> Some like me hot, some like me cold, some like me mild, some like me bold </string>
+    </resources>

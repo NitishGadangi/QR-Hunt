@@ -1,4 +1,4 @@
-package com.nitish.theqrhunt;
+package com.nitish.qrhuntgame;
 
 import org.junit.Test;
 

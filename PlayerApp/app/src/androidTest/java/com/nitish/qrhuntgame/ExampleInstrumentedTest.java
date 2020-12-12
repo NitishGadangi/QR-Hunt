@@ -1,4 +1,4 @@
-package com.nitish.theqrhunt;
+package com.nitish.qrhuntgame;
 
 import android.content.Context;
 
@@ -21,6 +21,7 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.nitish.theqrhunt", appContext.getPackageName());
+
+        assertEquals("com.nitish.qrhunt", appContext.getPackageName());
     }
 }
