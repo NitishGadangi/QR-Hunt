@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "QR Hunt (Org)"
+rootProject.name='QRhuntMaster'
