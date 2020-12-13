@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="screenshots/logo.png?raw=true" alt="Logo" width="120" height="120">
+    <img src="screenshots/logo.png?raw=true" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">QR Hunt App</h3>
@@ -43,9 +43,9 @@ All the participants should install the player App. Each team is given a 'login 
 The team which solves all the clues and comes back to origin first will be declared as the winner of the Hunt.
 
 ## Screenshots
-![screenshot1](/screenshots/ss1.jpeg)
-![screenshot2](/screenshots/ss2.jpeg)
-![screenshot3](/screenshots/ss3.jpeg)
+![screenshot1](/screenshots/ss1.jpg)
+![screenshot2](/screenshots/ss2.jpg)
+![screenshot3](/screenshots/ss3.jpg)
 
 ## Contribution
 **Contributions are always welcome 💕**
