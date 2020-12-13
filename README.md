@@ -10,7 +10,7 @@
    <br />
     <a href="/releases">Download</a>
     .
-    <a href="/issues">Report Bug</a>
+    <a href="https://github.com/NitishGadangi/QR-Hunt/issues">Report Bug</a>
     .
    <a href="#contribution">Contribute</a>
   
